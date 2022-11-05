@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984122325889",
+    "project_id": "fir-multi-auth-15644",
+    "storage_bucket": "fir-multi-auth-15644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984122325889:android:a8e98e10d04607e8210680",
+        "android_client_info": {
+          "package_name": "com.example.firebase_multifactor_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984122325889-e5qgrfnrkmggtsbtn31fq31bkovvh9s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDwek226p4dDn5LG0lH3qs-u-iVV6oXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984122325889-e5qgrfnrkmggtsbtn31fq31bkovvh9s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
